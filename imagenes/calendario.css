@@ -1,0 +1,106 @@
+/*********************
+* Calendar module style
+**********************/
+.mod_events_table {
+    border: 1px solid;
+    border-top-color: #CCCCCC;
+    border-left-color: #CCCCCC;
+    border-bottom-color: #888888;
+    border-right-color: #888888;
+    width : 140px;
+/*     font-weight: normal; */
+    text-align : center;
+    background-color: #FFFFFF;
+}
+.mod_events_td_title {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    font-style: normal;
+    color: #FFFFFF;
+    text-decoration: underline;
+    text-align : center;
+}
+.mod_events_td_dayname {
+    font-family: Arial;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: bold;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #b50f0f;
+    border-bottom: 1px solid;
+    border-bottom-color: #CCCCCC;
+}
+.mod_events_td_dayoutofmonth {
+    font-family: Arial;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: bold;
+    color: Gray;
+    text-decoration: none;
+    background-color: #D5D5D5;
+}
+.mod_events_td_todaynoevents {
+    background-color: #C4C4C4;
+/*     aab8ff */
+}
+.mod_events_td_todaywithevents {
+    background-color: #818181;
+}
+.mod_events_td_daynoevents {
+    font-family: Arial;
+    font-size: 10px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: bold;
+    color: #818181;
+    text-decoration: none;
+}
+.mod_events_td_daywithevents {
+    font-family: Arial;
+    font-size: 10px;
+    font-style: normal;
+    font-weight: bold;
+    color: Black;
+    text-decoration: none;
+    background-color: #FFFFFF;/*  Fondo del Calendario; */
+}
+
+a.mod_events_daylink:link {
+    font-size:10px;
+    font-family: Arial;
+    font-weight: bold;
+    color: Black;
+}
+a.mod_events_daylink:visited  {
+    font-size:10px;
+    font-family: Verdana;
+    font-weight: bold;
+    color: Black;
+}
+a.mod_events_daylink:hover  {
+    font-size:10px;
+    font-family: Arial;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #818181;
+}
+
+.mod_events_td_link {
+    background-color: Background;
+}
+a.mod_events_link:link {
+    font-size:10px;
+    font-family: Arial;
+    color: #FFFFFF;
+}
+a.mod_events_link:visited  {
+    font-size:10px;
+    font-family: Arial;
+    color: #818181;
+}
+a.mod_events_link:hover  {
+    font-size:10px;
+    font-family: Arial;
+    color: Silver;
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_centro" value="name:id_centro;datatype:int,name:nombre;datatype:string,name:parroquia;datatype:string,name:direccion;datatype:string,name:codigo;datatype:string,name:mesas;datatype:int" />
+	<infoitem key="UD_patrulla" value="name:id_patrulla;datatype:int,name:responsable;datatype:string,name:cedulaR;datatype:int,name:telefonoR;datatype:string,name:asistente;datatype:int,name:cedulaA;datatype:int,name:telefonoA;datatype:int,name:nombre;datatype:string" />
+	<infoitem key="UD_electores" value="name:id_elector;datatype:int,name:cedula;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:telefono;datatype:string,name:unidad;datatype:int,name:sala;datatype:string,name:consejo;datatype:string,name:direccion;datatype:string,name:centro;datatype:string,name:mesa;datatype:int,name:potica;datatype:string,name:laboral;datatype:string,name:patrulla;datatype:int,name:firmo;datatype:string" />
+	<infoitem key="UD_departamento" value="name:id_dep;datatype:int,name:nombre;datatype:string,name:responsable;datatype:string" />
+	<infoitem key="UD_post" value="name:id_post;datatype:int,name:voto;datatype:string,name:diagnostico;datatype:string,name:observacion;datatype:string,name:elector;datatype:int" />
+</info>

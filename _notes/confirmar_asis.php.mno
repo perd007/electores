@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_evento" value="name:id_evento;datatype:int,name:fecha;datatype:date,name:codigo;datatype:string,name:descripcion;datatype:string,name:estado;datatype:string" />
+	<infoitem key="UD_func" value="name:id_funcionario;datatype:int,name:nombres;datatype:string,name:cedula;datatype:int,name:telefono;datatype:string,name:telefono2;datatype:string,name:direccion;datatype:string,name:cargo;datatype:string,name:tipo;datatype:string" />
+	<infoitem key="UD_asistencia" value="name:id_asistencia;datatype:int,name:evento;datatype:string,name:funcionario;datatype:int,name:asistio;datatype:string,name:convocatoria;datatype:string" />
+</info>

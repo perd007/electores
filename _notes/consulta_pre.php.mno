@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_pre" value="name:id_pre;datatype:int,name:diagnostico;datatype:string,name:CPE;datatype:string,name:situacion;datatype:string,name:departamento;datatype:string,name:elector;datatype:int" />
+	<infoitem key="UD_departamento" value="name:id_dep;datatype:int,name:nombre;datatype:string,name:responsable;datatype:string" />
+	<infoitem key="UD_elector" value="name:id_elector;datatype:int,name:cedula;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:telefono;datatype:string,name:sala;datatype:string,name:consejo;datatype:string,name:direccion;datatype:string,name:centro;datatype:string,name:mesa;datatype:int,name:potica;datatype:string,name:laboral;datatype:string,name:patrulla;datatype:int,name:firmo;datatype:string" />
+</info>

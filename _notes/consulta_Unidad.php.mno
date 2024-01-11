@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_unidad" value="name:id_dep;datatype:int,name:nombre;datatype:string,name:responsable;datatype:string" />
+	<infoitem key="UD_electores" value="name:id_elector;datatype:int,name:cedula;datatype:int,name:nombre;datatype:string,name:apellido;datatype:string,name:telefono;datatype:string,name:unidad;datatype:int,name:sala;datatype:string,name:consejo;datatype:string,name:direccion;datatype:string,name:centro;datatype:string,name:mesa;datatype:int,name:potica;datatype:string,name:laboral;datatype:string,name:patrulla;datatype:int,name:firmo;datatype:string" />
+</info>

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_depar" value="name:id_dep;datatype:int,name:nombre;datatype:string,name:responsable;datatype:string" />
+</info>

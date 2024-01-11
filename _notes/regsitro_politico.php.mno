@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_patrulla" value="name:id_patrulla;datatype:int,name:responsable;datatype:string,name:cedulaR;datatype:int,name:telefonoR;datatype:string,name:asistente;datatype:int,name:cedulaA;datatype:int,name:telefonoA;datatype:int,name:nombre;datatype:string" />
+	<infoitem key="UD_Recordset1" value="name:id_dep;datatype:int,name:nombre;datatype:string,name:responsable;datatype:string" />
+	<infoitem key="UD_departamento" value="name:id_dep;datatype:int,name:nombre;datatype:string,name:responsable;datatype:string" />
+</info>

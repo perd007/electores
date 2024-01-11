@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_centro" value="name:id_centro;datatype:int,name:nombre;datatype:string,name:parroquia;datatype:string,name:direccion;datatype:string,name:codigo;datatype:string,name:mesas;datatype:int" />
+</info>

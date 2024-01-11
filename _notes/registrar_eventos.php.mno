@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_fun" value="name:id_funcionario;datatype:int,name:nombres;datatype:string,name:cedula;datatype:int,name:telefono;datatype:string,name:telefono2;datatype:string,name:direccion;datatype:string,name:cargo;datatype:string,name:tipo;datatype:string" />
+</info>

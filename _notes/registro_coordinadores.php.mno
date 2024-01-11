@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_centros" value="name:id_centro;datatype:int,name:nombre;datatype:string,name:parroquia;datatype:string,name:direccion;datatype:string,name:codigo;datatype:string,name:mesas;datatype:int" />
+	<infoitem key="UD_validar" value="name:id_coord;datatype:int,name:nombres;datatype:string,name:cedula;datatype:int,name:direccion;datatype:string,name:telefono;datatype:string,name:centr;datatype:int" />
+	<infoitem key="UD_validar2" value="name:id_coord;datatype:int,name:nombres;datatype:string,name:cedula;datatype:int,name:direccion;datatype:string,name:telefono;datatype:string,name:centr;datatype:int" />
+</info>

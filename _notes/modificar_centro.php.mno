@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_centro" value="name:id_centro;datatype:int,name:nombre;datatype:string,name:parroquia;datatype:string,name:direccion;datatype:string,name:codigo;datatype:string,name:mesas;datatype:int" />
+	<infoitem key="UD_LiveData_params" value="1" />
+	<infoitem key="UD_LiveData_param0" value="recordID=1" />
+	<infoitem key="UD_DetailRS1" value="name:id_centro;datatype:int,name:nombre;datatype:string,name:parroquia;datatype:string,name:direccion;datatype:string,name:codigo;datatype:string,name:mesas;datatype:int" />
+</info>
